@@ -52,7 +52,7 @@ const Portfolio = () => {
                     </DescText>
                 </Description>
             </Table>
-            <Table data-aos="fade-up" data-aos-duration="400">
+            <Table data-aos="fade-up" data-aos-duration="900">
                 <Date>
                     <DateText>Graphic Design <Slash>/</Slash>2022</DateText>
                 </Date>

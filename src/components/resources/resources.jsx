@@ -8,6 +8,7 @@ import 'aos/dist/aos.css';
 import { useEffect } from "react"
 
 const Resources = () => {
+    
     useEffect(() => {
       AOS.init()
     }, [])
